@@ -1,0 +1,33 @@
+/* .main_header{
+    width:"100%";
+    background-color: red;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;   
+}
+.navbar-head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.link{
+    display: flex;
+}
+
+.right_logo{
+    justify-content: space-between; 
+    display: flex;  
+} */
+.navbar{
+    width: 100%;
+    height:auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(59, 97, 63);
+    padding: 10px;
+}
+.navbar_manuItem{
+    gap: 20px !important;
+}
